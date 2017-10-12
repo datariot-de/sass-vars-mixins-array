@@ -1,6 +1,6 @@
 # SASS Mixins, variables and usage of an array
 
-**Little exercise to define and use**
+**Little exercise to define and use mixins / Introduction into arrays**
 
 ## 1. Installing
 
