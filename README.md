@@ -1,6 +1,6 @@
 # SASS Mixins, variables and usage of an array
 
-** Little exercise to define and use
+**Little exercise to define and use**
 
 ## 1. Installing
 
@@ -26,14 +26,14 @@
 
 ## 3. A mixin for horizontal lists
 
-** There are several lists that are displayed horizontally. By using a mixin you could avoid repeating the same code over and over again. Think of the properties that all these lists have in common.
+**There are several lists that are displayed horizontally. By using a mixin you could avoid repeating the same code over and over again. Think of the properties that all these lists have in common.**
 
 * Define a mixin called horizontal-list with the common properties in _mixin.scss
 * use the mixin in styles.scss
 
 ## 3. A mixin for sprites
 
-** Also the properties for icons sprites are always pretty much the same.
+**Also the properties for icons sprites are always pretty much the same.**
 
 * Define a mixin called `icon-sprite` which accepts the parameters `$x` and `$y`
 * `$x` and `$y` shall be used for the `background-position`
